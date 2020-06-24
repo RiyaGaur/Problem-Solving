@@ -1,11 +1,11 @@
 Consider a staircase of size n=4:
 
-   #<br>
-  ##<br>
- ###<br>
+***#<br>
+**##<br>
+*###<br>
 ####
 
-Observe that its base and height are both equal to n, and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.
+Observe that its base and height are both equal to n, and the image is drawn using # symbols and *. The last line is not preceded by any *.
 
 Write a program that prints a staircase of size n.
 
@@ -28,9 +28,9 @@ A single integer,n, denoting the size of the staircase.
 
 <h2>Output Format</h2>
 
-Print a staircase of size n using # symbols and spaces.
+Print a staircase of size n using # symbols and *.
 
-<strong>Note</strong>: The last line must have 0 spaces in it.
+<strong>Note</strong>: The last line must have 0 * in it.
 
 <h2>Sample Input</h2>
 

@@ -38,9 +38,9 @@ Print a staircase of size n using # symbols and spaces.
 
 <h2>Sample Output</h2>
 
-     #<br>
-    ##<br>
-   ###<br>
-  ####<br>
- #####<br>
+     # <br>
+    ## <br>
+   ### <br>
+  #### <br>
+ ##### <br>
 ######

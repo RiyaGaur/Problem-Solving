@@ -30,7 +30,7 @@ A single integer,n, denoting the size of the staircase.
 
 Print a staircase of size n using # symbols and spaces.
 
-<h2>Note: The last line must have 0 spaces in it.
+<h2>Note</h2>: The last line must have 0 spaces in it.
 
 <h2>Sample Input</h2>
 

@@ -27,12 +27,13 @@ Each of the next q sets of lines is as follows:
     <li>The first line contains an integer n, the number of containers (rows) and ball types (columns).</li>
     <li>Each of the next n lines contains n space-separated integers describing row M[i].</li>
 </ol>
+
+<h2>Constraints</h2>
 <ul>
     <li> 1 <= q <= 10 </li>
     <li> 1 <= n <= 100 </li>
     <li> 0 <= M[container][type] <= 10^9 </li>
 </ul>
-<h2>Constraints</h2>
 
 <h2>Scoring</h2>
 <ul>

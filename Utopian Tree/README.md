@@ -4,7 +4,7 @@ Laura plants a Utopian Tree sapling with a height of 1 meter at the onset of spr
 
 For example, if the number of growth cycles is n=5, the calculations are as follows:
 
-Period  Height
+Period  Height<br>
 0          1<br>
 1          2<br>
 2          3<br>

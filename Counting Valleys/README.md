@@ -13,8 +13,8 @@ Complete the countingValleys function in the editor below. It must return an int
 
 countingValleys has the following parameter(s):
 <ul>
-    <li> n: the number of steps Gary takes <li>
-    <li> s: a string describing his path <li>
+    <li> n: the number of steps Gary takes </li>
+    <li> s: a string describing his path </li>
 </ul>
 
 <h2> Input Format</h2>

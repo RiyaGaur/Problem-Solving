@@ -9,6 +9,7 @@ groundgo <br>
 dwouldha <br> 
 vegivenu <br> 
 sroots
+
 <ul>
     <li> Ensure that rows X columns >= L </li>
     <li> If multiple grids satisfy the above conditions, choose the one with the minimum area, i.e. rows X columns.</li>

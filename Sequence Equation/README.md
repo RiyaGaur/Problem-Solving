@@ -14,7 +14,7 @@ Complete the permutationEquation function in the editor below. It should return 
 permutationEquation has the following parameter(s):
 p: an array of integers
 
-I<h2> nput Format </h2>
+<h2> Input Format </h2>
 The first line contains an integer n, the number of elements in the sequence.
 The second line contains n space-separated integers p[i] where 1 <= i <= n.
 
